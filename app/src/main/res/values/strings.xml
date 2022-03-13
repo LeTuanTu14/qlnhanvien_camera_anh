@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Nhan Vien 7.1.1</string>
+    <string-array name="donvi_list">
+        <item>Phòng kế toán</item>
+        <item>Phòng tiếp thị</item>
+        <item>Phòng quan hệ công chúng</item>
+        <item>Phòng nhân sự</item>
+    </string-array>
+</resources>
